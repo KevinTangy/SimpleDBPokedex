@@ -1,0 +1,397 @@
+/* CSS Document */
+
+body
+{
+	background: #dadada; /* for non-css3 browsers */
+	/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cccccc', endColorstr='#999999'); /* for IE */
+	/*background: -webkit-gradient(linear, left top, left bottom, from(#ccc), to(#999)); /* for webkit browsers */
+	/*background: -moz-linear-gradient(top,  #ccc,  #999); /* for firefox 3.6+ */ 
+	
+}
+
+
+table.Bug
+{
+	border-width: 2px;
+	border-color: #A8B820;
+	border-style: solid;
+}
+table.Bug th
+{
+	border-width: 2px;
+	border-color: #A8B820;
+	border-style: solid;
+}
+table.Bug td
+{
+	border-width: 2px;
+	border-color: #A8B820;
+	border-style: solid;
+}
+
+
+table.Dark
+{
+	border-width: 2px;
+	border-color: #705848;
+	border-style: solid;
+}
+table.Dark th
+{
+	border-width: 2px;
+	border-color: #705848;
+	border-style: solid;
+}
+table.Dark td
+{
+	border-width: 2px;
+	border-color: #705848;
+	border-style: solid;
+}
+
+
+table.Dragon
+{
+	border-width: 2px;
+	border-color: #7038F8;
+	border-style: solid;
+}
+table.Dragon th
+{
+	border-width: 2px;
+	border-color: #7038F8;
+	border-style: solid;
+}
+table.Dragon td
+{
+	border-width: 2px;
+	border-color: #7038F8;
+	border-style: solid;
+}
+
+
+table.Electric
+{
+	border-width: 2px;
+	border-color: #F8D030;
+	border-style: solid;
+}
+table.Electric th
+{
+	border-width: 2px;
+	border-color: #F8D030;
+	border-style: solid;
+}
+table.Electric td
+{
+	border-width: 2px;
+	border-color: #F8D030;
+	border-style: solid;
+}
+
+
+table.Fighting
+{
+	border-width: 2px;
+	border-color: #C03028;
+	border-style: solid;
+}
+table.Fighting th
+{
+	border-width: 2px;
+	border-color: #C03028;
+	border-style: solid;
+}
+table.Fighting td
+{
+	border-width: 2px;
+	border-color: #C03028;
+	border-style: solid;
+}
+
+
+table.Fire
+{
+	border-width: 2px;
+	border-color: #F08030;
+	border-style: solid;
+}
+table.Fire th
+{
+	border-width: 2px;
+	border-color: #F08030;
+	border-style: solid;
+}
+table.Fire td
+{
+	border-width: 2px;
+	border-color: #F08030;
+	border-style: solid;
+}
+
+
+table.Flying
+{
+	border-width: 2px;
+	border-color: #A890F0;
+	border-style: solid;
+}
+table.Flying th
+{
+	border-width: 2px;
+	border-color: #A890F0;
+	border-style: solid;
+}
+table.Flying td
+{
+	border-width: 2px;
+	border-color: #A890F0;
+	border-style: solid;
+}
+
+
+table.Ghost
+{
+	border-width: 2px;
+	border-color: #705898;
+	border-style: solid;
+}
+table.Ghost th
+{
+	border-width: 2px;
+	border-color: #705898;
+	border-style: solid;
+}
+table.Ghost td
+{
+	border-width: 2px;
+	border-color: #705898;
+	border-style: solid;
+}
+
+
+table.Grass
+{
+	border-width: 2px;
+	border-color: #78C850;
+	border-style: solid;
+}
+table.Grass th
+{
+	border-width: 2px;
+	border-color: #78C850;
+	border-style: solid;
+}
+table.Grass td
+{
+	border-width: 2px;
+	border-color: #78C850;
+	border-style: solid;
+}
+
+
+table.Ground
+{
+	border-width: 2px;
+	border-color: #E0C068;
+	border-style: solid;
+}
+table.Ground th
+{
+	border-width: 2px;
+	border-color: #E0C068;
+	border-style: solid;
+}
+table.Ground td
+{
+	border-width: 2px;
+	border-color: #E0C068;
+	border-style: solid;
+}
+
+
+table.Ice
+{
+	border-width: 2px;
+	border-color: #98D8D8;
+	border-style: solid;
+}
+table.Ice th
+{
+	border-width: 2px;
+	border-color: #98D8D8;
+	border-style: solid;
+}
+table.Ice td
+{
+	border-width: 2px;
+	border-color: #98D8D8;
+	border-style: solid;
+}
+
+
+table.Normal
+{
+	border-width: 2px;
+	border-color: #A8A878;
+	border-style: solid;
+}
+table.Normal th
+{
+	border-width: 2px;
+	border-color: #A8A878;
+	border-style: solid;
+}
+table.Normal td
+{
+	border-width: 2px;
+	border-color: #A8A878;
+	border-style: solid;
+}
+
+
+table.Poison
+{
+	border-width: 2px;
+	border-color: #A040A0;
+	border-style: solid;
+}
+table.Poison th
+{
+	border-width: 2px;
+	border-color: #A040A0;
+	border-style: solid;
+}
+table.Poison td
+{
+	border-width: 2px;
+	border-color: #A040A0;
+	border-style: solid;
+}
+
+
+table.Psychic
+{
+	border-width: 2px;
+	border-color: #F85888;
+	border-style: solid;
+}
+table.Psychic th
+{
+	border-width: 2px;
+	border-color: #F85888;
+	border-style: solid;
+}
+table.Psychic td
+{
+	border-width: 2px;
+	border-color: #F85888;
+	border-style: solid;
+}
+
+
+table.Rock
+{
+	border-width: 2px;
+	border-color: #B8A038;
+	border-style: solid;
+}
+table.Rock th
+{
+	border-width: 2px;
+	border-color: #B8A038;
+	border-style: solid;
+}
+table.Rock td
+{
+	border-width: 2px;
+	border-color: #B8A038;
+	border-style: solid;
+}
+
+
+table.Steel
+{
+	border-width: 2px;
+	border-color: #B8B8D0;
+	border-style: solid;
+}
+table.Steel th
+{
+	border-width: 2px;
+	border-color: #B8B8D0;
+	border-style: solid;
+}
+table.Steel td
+{
+	border-width: 2px;
+	border-color: #B8B8D0;
+	border-style: solid;
+}
+
+
+table.Water
+{
+	border-width: 2px;
+	border-color: #6890F0;
+	border-style: solid;
+}
+table.Water th
+{
+	border-width: 2px;
+	border-color: #6890F0;
+	border-style: solid;
+}
+table.Water td
+{
+	border-width: 2px;
+	border-color: #6890F0;
+	border-style: solid;
+}
+
+
+
+
+table.none
+{
+	border-style: hidden;
+}
+table.none th
+{
+	border-style: hidden;
+}
+table.none td
+{
+	border-style: hidden;
+}
+
+
+table.evo
+{
+	border-style: hidden;
+	font-size: smaller;
+}
+table.evo th
+{
+	border-style: hidden;
+}
+table.evo td
+{
+	border-style: hidden;
+}
+
+
+table.stats
+{
+	border-style: hidden;
+	font-size: small;
+}
+table.stats th
+{
+	border-style: hidden;
+}
+table.stats td
+{
+	border-style: hidden;
+}
+
